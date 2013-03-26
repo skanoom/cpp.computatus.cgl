@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1364241067 source:c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatusgenerallibrary\computatus.cgl\cgl.cpp
+	"cgl.hpp"
+
+1364241535 c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatusgenerallibrary\computatus.cgl\cgl.hpp
+	"../computatus.cgl.base/base.hpp"
+
+1364241506 c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatusgenerallibrary\computatus.cgl.base\base.hpp
+
+1364250118 source:c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl\cgl.cpp
+	"cgl.hpp"
+
+1364255770 c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl\cgl.hpp
+	"libbase.hpp"
+	"../computatus.cgl.base/base.hpp"
+
+1364265497 c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl.base\base.hpp
+	"Object.hpp"
+	"Class.hpp"
+	"Runnable.hpp"
+
+1364262118 source:c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl.base\object.cpp
+	"Object.hpp"
+
+1364262156 c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl.base\object.hpp
+	<typeinfo>
+
+1364247100 c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl\libbase.h
+	<assert.h>
+	<complex.h>
+	<conio.h>
+	<ctype.h>
+	<errno.h>
+	<fenv.h>
+	<float.h>
+	<inttypes.h>
+	<iso646.h>
+	<limits.h>
+	<locale.h>
+	<math.h>
+	<process.h>
+	<setjmp.h>
+	<signal.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<tgmath.h>
+	<time.h>
+	<wchar.h>
+	<wctype.h>
+	<windows.h>
+	<cstdlib>
+	<typeinfo>
+
+1364252166 c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl\libbase.hpp
+	<process.h>
+	<time.h>
+	<windows.h>
+	<string>
+	<typeinfo>
+
+1364262254 c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl.base\class.hpp
+
+1364256802 source:c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl.base\class.cpp
+
+1364263542 c:\users\fsdt\pessoal\projetos c++\cpp.computatus.cgl\computatus.cgl.base\runnable.hpp
+
